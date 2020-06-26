@@ -11,10 +11,7 @@ import com.nettyim.server.model.ProtocolModel;
 import com.nettyim.server.task.ITask;
 
 /**
- * 心跳包任务 
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年7月31日  v0.1</p><p>版本内容: 创建</p>
+ * 心跳包任务
  */
 public class HeatBeatTask implements ITask {
 

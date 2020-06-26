@@ -14,12 +14,7 @@ import com.nettyim.server.task.impl.ChatTask;
 import com.nettyim.server.task.impl.GroupChatTask;
 import com.nettyim.server.task.impl.HeatBeatTask;
 
-/**
- * 任务管理
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年7月31日  v0.1</p><p>版本内容: 创建</p>
- */
+
 @Component
 public class TaskManager {
 

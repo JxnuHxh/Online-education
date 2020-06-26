@@ -7,12 +7,7 @@ import org.springframework.stereotype.Component;
 import com.nettyim.server.common.constrants.AttributeKeyConstrants;
 import com.nettyim.server.entity.AuthModel;
 
-/**
- * AuthEventService
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年7月31日  v0.1</p><p>版本内容: 创建</p>
- */
+
 @Component
 public class AuthEventService {
 

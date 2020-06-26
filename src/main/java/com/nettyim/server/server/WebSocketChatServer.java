@@ -18,9 +18,6 @@ import com.nettyim.server.server.initializer.WebSocketChannelInitializer;
 
 /**
  * 消息聊天WEBSOCKET服务端
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年8月29日  v0.1</p><p>版本内容: 创建</p>
  */
 @Component
 public class WebSocketChatServer{

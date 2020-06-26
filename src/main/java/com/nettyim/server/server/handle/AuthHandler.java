@@ -16,9 +16,6 @@ import com.nettyim.server.service.AuthEventService;
 
 /**
  * 登陆认证
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年7月31日  v0.1</p><p>版本内容: 创建</p>
  */
 @Component
 @ChannelHandler.Sharable

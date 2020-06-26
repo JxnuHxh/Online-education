@@ -11,17 +11,9 @@ import org.springframework.context.annotation.ComponentScan;
 import com.nettyim.server.server.ChatServer;
 import com.nettyim.server.server.WebSocketChatServer;
 
-/**
- * 程序入口
- * @author 粱桂钊
- * @since 
- * <p>更新时间: 2016年7月31日  v0.1</p><p>版本内容: 创建</p>
- */
 @SpringBootApplication
 @ComponentScan("com.nettyim.server")
 public class RunMain implements CommandLineRunner {
-
-
 
     private static final Logger logger = LoggerFactory.getLogger(RunMain.class);
 
